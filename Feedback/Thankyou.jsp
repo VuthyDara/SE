@@ -1,0 +1,1 @@
+<h1>Thanks for feedback. Your query number is:<feedback_id>" where <feedback_id> is id in DB after save. This id is used for further investigations.</h1>
